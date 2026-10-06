@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
         <h4>Goal of this slide:</h4>
         <p>Set a collaborative, respectful tone. June isn't just an ordinary café; it's an architectural sanctuary in Patrakar Colony.</p>
         <h4>What to say word-for-word:</h4>
-        <p>"Thank you for taking the time to meet with us today. When you look at June Bakehouse — the double-height solarium, the precision of your espresso, the Berliners — it is undeniably one of the most aesthetically refined dining spaces in Indore."</p>
+        <p>"Thank you for taking the time to meet with us today. When you look at June Bakehouse — the arched doorway, the warm wood and linen dining room, the precision of your La Marzocco espresso, the viral London Caramel Chocolate Cake and Berliners — it is undeniably one of the most aesthetically refined dining spaces in Indore."</p>
         <p>"However, in today's market, having great food and great ambience is only half the battle. Today, we're not pitching a standard generic website. We're showing you how your digital flagship can actively capture <strong>high-margin revenue, private event buyouts, and direct table bookings</strong> with zero aggregator commissions."</p>
       `
     },
@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', () => {
         <h4>What to say word-for-word:</h4>
         <p>"We designed this flagship around three specific revenue pillars:"</p>
         <ul>
-          <li><strong>1. Private Events & Gatherings:</strong> June's solarium and courtyard are made for intimate celebrations, brand pop-ups, and corporate brunches. Just 2 to 3 events a month bring in ₹70,000–₹1,50,000 in pure revenue.</li>
+          <li><strong>1. Private Events & Gatherings:</strong> June's lush courtyard patio and dining room are made for intimate celebrations, brand pop-ups, and corporate brunches. Just 2 to 3 events a month bring in ₹70,000–₹1,50,000 in pure revenue.</li>
           <li><strong>2. Priority Table Reservations:</strong> Eliminate weekend waitlist walkouts. Guests lock in tables, meaning guaranteed covers and higher average spend.</li>
           <li><strong>3. Chef's Specials & Hamper Curation:</strong> Highlight seasonal bakery drops (festive hampers, artisanal sourdoughs, whole celebration cakes).</li>
         </ul>
@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', () => {
         <h4>Goal of this slide:</h4>
         <p>Show the actual live deployed website on GitHub Pages.</p>
         <h4>What to say word-for-word:</h4>
-        <p>"Instead of showing you wireframes, we've already engineered the working flagship. Look at this on mobile — the glass solarium imagery, the warm terracotta accents, the bilingual 'जून' typography."</p>
+        <p>"Instead of showing you wireframes, we've already engineered the working flagship. Look at this on mobile — the authentic dining room photography, the warm terracotta accents, the bilingual 'जून' typography."</p>
         <p>"Most importantly: notice the bottom sticky action bar on phones. One tap to call your front desk, one tap for GPS Google Maps navigation straight to Patrakar Colony, and instant access to your curated menu."</p>
       `
     },
@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', () => {
         <h4>Goal of this slide:</h4>
         <p>Position this against generic DIY templates (Wix, WordPress, Squarespace) and show why custom engineering matters.</p>
         <h4>What to say word-for-word:</h4>
-        <p>"Cheap templates are slow, cluttered, and break on Indian phones. June is a luxury experience — your digital flagship loads in under a second, dominates Indore Google searches, and feels as refined as walking into your glasshouse solarium."</p>
+        <p>"Cheap templates are slow, cluttered, and break on Indian phones. June is a luxury experience — your digital flagship loads in under a second, dominates Indore Google searches, and feels as refined as stepping through your arched doorway into the room."</p>
       `
     },
     {
