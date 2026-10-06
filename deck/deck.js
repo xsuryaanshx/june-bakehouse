@@ -111,7 +111,8 @@ document.addEventListener('DOMContentLoaded', () => {
         <h4>Goal of this slide:</h4>
         <p>Close with confidence. Present the two turnkey options.</p>
         <h4>What to say word-for-word:</h4>
-        <p>"We have two packages: The Growth Launch and The Full Flagship Retainer. As you saw in the calculator, even a single private brunch booked through this site covers the entire setup cost. Shall we begin setup this week so we're live for this weekend's traffic?"</p>
+        <p>"Normally, an engineered digital flagship like this runs between ₹28,000 and ₹35,000. But because we've already done the foundation work and mapped June's architecture, we can roll out your complete launch for <strong>just ₹16,500 one-time</strong> with zero monthly lock-in — or our Growth Partner tier at ₹24,500 with ongoing monthly menu drops and QR table cards."</p>
+        <p>"As you saw in the calculator, a single private event or one busy weekend dinner rush covers the entire investment. Shall we lock in setup so we're live for this weekend's traffic?"</p>
       `
     }
   ];
