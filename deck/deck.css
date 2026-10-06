@@ -1197,14 +1197,31 @@ html, body {
 
 /* ─── Mobile / Tablet Responsive Tweaks ─── */
 @media (max-width: 900px) {
+  .keyboard-hint {
+    display: none !important;
+  }
+
+  .deck-header {
+    height: 52px;
+    padding: 0 16px;
+  }
+
+  .deck-client-tag {
+    display: none;
+  }
+
   .slide-viewport {
     width: 98vw;
     height: 94vh;
     border-radius: 12px;
   }
 
+  .slides-wrapper {
+    height: calc(100% - 52px);
+  }
+
   .slide {
-    padding: 24px 20px 70px;
+    padding: 20px 18px 74px;
   }
 
   .slide--cover {
@@ -1224,6 +1241,12 @@ html, body {
   }
 
   .journey-timeline {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
+  }
+
+  .deck-dock {
+    bottom: 12px;
+    padding: 6px 12px;
+    gap: 8px;
   }
 }

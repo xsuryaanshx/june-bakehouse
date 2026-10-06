@@ -131,9 +131,6 @@ document.addEventListener('DOMContentLoaded', () => {
   function updateSlide(newIdx) {
     if (newIdx < 0 || newIdx >= totalSlides) return;
 
-    slides[currentIdx].classList.remove('active');
-    slides[currentIdx].classList.add(newIdx > currentIdx ? 'prev' : '');
-
     currentIdx = newIdx;
 
     slides.forEach((s, i) => {
