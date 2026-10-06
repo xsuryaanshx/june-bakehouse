@@ -91,9 +91,9 @@ document.addEventListener('DOMContentLoaded', () => {
       title: "Slide 7: Why June's Brand Deserves This",
       notes: `
         <h4>Goal of this slide:</h4>
-        <p>Position this against generic DIY templates (Wix, WordPress, Squarespace) and show why custom engineering matters.</p>
+        <p>Position this against generic DIY templates (Wix, WordPress, Squarespace) and explain SEO + AEO (AI search engines).</p>
         <h4>What to say word-for-word:</h4>
-        <p>"Cheap templates are slow, cluttered, and break on Indian phones. June is a luxury experience — your digital flagship loads in under a second, dominates Indore Google searches, and feels as refined as stepping through your arched doorway into the room."</p>
+        <p>"Cheap templates are slow, cluttered, and break on Indian phones. June is a luxury experience — your digital flagship loads in under a second, dominates Indore Google searches, and is optimized for <strong>both SEO and AEO</strong>. That means when customers ask ChatGPT or Google Gemini for the best bakeries or date spots in Indore, June gets directly recommended by AI."</p>
       `
     },
     {
@@ -111,7 +111,8 @@ document.addEventListener('DOMContentLoaded', () => {
         <h4>Goal of this slide:</h4>
         <p>Close with confidence. Present the two turnkey options.</p>
         <h4>What to say word-for-word:</h4>
-        <p>"Normally, an engineered digital flagship like this runs between ₹28,000 and ₹35,000. But because we've already done the foundation work and mapped June's architecture, we can roll out your complete launch for <strong>just ₹16,500 one-time</strong> with zero monthly lock-in — or our Growth Partner tier at ₹24,500 with ongoing monthly menu drops and QR table cards."</p>
+        <p>"Normally, an engineered digital flagship like this runs between ₹28,000 and ₹35,000. But because we've already done the foundation work and mapped June's architecture, we can roll out your complete launch for <strong>just ₹16,500 one-time</strong> with zero monthly lock-in. Any future menu updates are completely on-demand at just ₹999 per request — you never pay when there are no updates."</p>
+        <p>"Or, if you want proactive seasonal campaigns, automated promo banners, and printed QR table cards, our Growth Partner tier is ₹24,500 + ₹1,800/mo. All prices are exclusive of 18% GST as applicable."</p>
         <p>"As you saw in the calculator, a single private event or one busy weekend dinner rush covers the entire investment. Shall we lock in setup so we're live for this weekend's traffic?"</p>
       `
     }
