@@ -6,11 +6,13 @@
 (function () {
   'use strict';
 
-  /* ── 1. Nav: add .scrolled class after user scrolls 40px ── */
+  /* ── 1. Nav: add .scrolled class after user scrolls past hero ── */
   const header = document.querySelector('.site-header');
 
   function onScroll() {
-    if (window.scrollY > 40) {
+    const heroEl = document.getElementById('hero');
+    const heroHeight = heroEl ? heroEl.offsetHeight : window.innerHeight;
+    if (window.scrollY > heroHeight - 80) {
       header.classList.add('scrolled');
     } else {
       header.classList.remove('scrolled');
